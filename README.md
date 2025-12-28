@@ -1,6 +1,6 @@
 > [!NOTE]
 > 你有什么新奇的想法可以联系我
-> [@Akid_V](https://t.me/Akid_V)
+> [@Akid_V](https://t.me/Akid_V) [TG群组](https://t.me/Akid_VI)
 
 # Eyuyan_Curl
 1. 这是一个基于Openssl+CURL系列开发高度拟浏览器的易语言框架
