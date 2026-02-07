@@ -1,6 +1,6 @@
 > [!NOTE]
 > 你有什么新奇的想法可以联系我
-> [@Akid_V](https://t.me/Akid_V) [TG群组](https://t.me/Akid_VI)
+> [@Akid_V](https://t.me/Akid_V)
 
 # Eyuyan_Curl
 1. 这是一个基于[curl-impersonate](https://github.com/lexiforest/curl-impersonate)的易语言模块
